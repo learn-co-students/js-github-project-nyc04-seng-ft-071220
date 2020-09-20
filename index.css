@@ -11,3 +11,59 @@
 ul {
   list-style: none;
 }
+
+.UserDiv {
+  background: lightgrey;
+  text-align: center;
+  padding: 20px;
+}
+
+.UserAvatar{
+  background: lightgrey;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Username {
+  background: grey;
+}
+
+.UserProfileURL:hover {
+  text-decoration: none;
+  color: blue;
+}
+
+.UserProfileURL:link {
+  text-decoration: none;
+}
+
+.notFound {
+  color: red;
+}
+
+.UserNotFoundImg {
+  background: lightgrey;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.reposBtn {
+  margin-top: 10px;
+}
+
+#repos-list {
+  background: lightgrey;
+  padding-left: 50px;
+}
+
+.div-of-repos {
+  background: grey;
+  margin-right: 20px;
+}
+
+.repo-link-url:hover {
+  text-decoration: none;
+  color: blue;
+}
+
+.repo-link-url:link {
+  text-decoration: none;
+}
